@@ -3,4 +3,4 @@ class School
 
 end 
 
-school.new 
+School.new 
