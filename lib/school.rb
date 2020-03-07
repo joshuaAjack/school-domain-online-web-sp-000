@@ -2,3 +2,5 @@
 class School 
 
 end 
+
+school.new 
